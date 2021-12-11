@@ -16,20 +16,20 @@
 <h4>Technologies</h4>
 
 <ul>
-<li>Java</li>
-<li>Spring Boot</li>
-<li>Python</li>
-<li>SQL</li>
-<li>HTML</li>
-<li>CSS</li>
-<li>Heroku</li>
-<li>GIT</li>
+<li>Java ***</li>
+<li>Spring Boot ***</li>
+<li>Python**</li>
+<li>SQL**</li>
+<li>HTML**</li>
+<li>CSS*</li>
+<li>Heroku*</li>
+<li>GIT*</li>
 <br>
 </ul>
 
 <h4>Goals (2022)</h4>
 
-<br>
+
 
 <ul>
 <li>I want to finish the course Mooc Full Stack (in progress) in the near future 
