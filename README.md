@@ -25,14 +25,19 @@
 </ul>
 
 <h3>Goals (2022)</h3>
+
 <ul>
+
 <li>JavaScript</li>
 <li>React</li>
 <li>React Native</li>
-<li>Node Js</li>
+<li>Node JS</li>
 <li>Express</li>
-<li>Typescript</li>
+<li>TypeScript</li>
 <li>GraphQL</li>
 <li>Redux</li>
+<br>
+
 
 </ul>
+<h3>I want also finish course Mooc Full Stack (in progress) in near future</h3>
