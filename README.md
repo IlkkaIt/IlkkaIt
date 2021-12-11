@@ -1,4 +1,4 @@
-<h3>Hi I'm Ilkka, versatile teacher (M.A.) from Finland learning development. Started occasional programming as a hobby 4 years go, got serious later on.</p>
+<p>Hi I'm Ilkka, versatile teacher (M.A.) from Finland learning development. Started occasional programming as a hobby 4 years go, got serious later on.</p>
 
 
 <h3>CS Studies 2019-2021</h3>
@@ -24,20 +24,16 @@
 <li>GIT</li>
 </ul>
 
-<h3>Goals (2022)</h3>
+<h3>Goals (2022)-</h3>
+
+
 
 <ul>
-
-<li>JavaScript</li>
-<li>React</li>
-<li>React Native</li>
-<li>Node JS</li>
-<li>Express</li>
-<li>TypeScript</li>
-<li>GraphQL</li>
-<li>Redux</li>
+<li>I want to finish the course Mooc Full Stack (in progress) in the near future 
+<br>
+(JavaScript, React, React Native, Node JS, Express, TypeScript, GraphQL, Redux)</li>
+<li>Get some understanding about AWS cloud technologies and learn about PostgreSQL - Postgis database deployment in Spring Boot
 <br>
 
 
 </ul>
-<h3>I want also finish course Mooc Full Stack (in progress) in near future</h3>
