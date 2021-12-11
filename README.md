@@ -1,19 +1,19 @@
 <p>Hi I'm Ilkka, versatile teacher (M.A.) from Finland learning development. Started occasional programming as a hobby 4 years go, got serious later on.</p>
 
 <br>
-<h3>CS Studies 2019-2021</h3>
+<h4>CS Studies 2019-2021</h4>
 <ul>
 <li>Introduction to CS</li>
 <li>Introduction to Programming Java</li>
 <li>Advanced Course in Programming Java</li>
 <li>Introduction to Databases</li>
 <li>Serverside Web Development Java</li>
-<br>
+
 
 </ul
 
-
-<h3>Technologies</h3>
+<br>
+<h4>Technologies</h4>
 
 <ul>
 <li>Java</li>
@@ -27,7 +27,7 @@
 <br>
 </ul>
 
-<h3>Goals (2022)</h3>
+<h4>Goals (2022)</h4>
 
 <br>
 
