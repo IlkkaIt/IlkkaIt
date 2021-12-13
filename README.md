@@ -7,8 +7,6 @@
 <p>:heavy_check_mark: Principles and practices of object oriented progmamming </p>
 <p>Clarification :heavy_check_mark: doesn't mean i'm finished with this one, going deeper instead</p>
 
-
-<br>
 <h4>CS Studies 2019-2021</h4>
 <ul>
 <li>Introduction to CS</li>
