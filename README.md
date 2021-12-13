@@ -5,6 +5,7 @@
 <p>:heavy_check_mark: Understanding how relational databases work and how they are implemeneted as part of an application, some NoSQL too</p>
 <p>:heavy_check_mark: Using Front End tools like Thymeleaf on top off basic HTML and CSS </p>
 <p>:heavy_check_mark: Principles and practices of object oriented progmamming </p>
+<p>Clarification :heavy_check_mark: doesn't mean i'm finished with this one, going deeper instead</p>
 
 
 <br>
