@@ -35,13 +35,12 @@
 <br>
 </ul>
 
-<h4>Capabilities on my radar (2022)</h4>
+<h4>Goals, Capabilities on my radar (2022)</h4>
 
 
 
 
 <p>:pushpin:<br>Finishing the course Mooc Full Stack (in progress) in the near future
-
 (JavaScript, React, React Native, Node JS, Express, TypeScript, GraphQL, Redux)</p>
 
 <p>:pushpin:<br>Get some understanding about AWS cloud technologies and learn about PostgreSQL - Postgis database deployment in Spring Boot</p>
