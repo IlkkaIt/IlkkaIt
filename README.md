@@ -1,3 +1,4 @@
+<h4>About me inclunding some capabilities</h4>
 <p>Hi I'm Ilkka, versatile teacher (M.A.) from Finland learning development. Started occasional programming as a hobby 4 years go, got serious later on.</p>
 
 <p>I've reached certain capabilities in:</p>
@@ -39,14 +40,14 @@
 
 
 <ul>
-<li>Finishing the course Mooc Full Stack (in progress) in the near future 
+<li>:pushpin:Finishing the course Mooc Full Stack (in progress) in the near future 
 <br>
 (JavaScript, React, React Native, Node JS, Express, TypeScript, GraphQL, Redux)</li>
 <br>
-<li>Get some understanding about AWS cloud technologies and learn about PostgreSQL - Postgis database deployment in Spring Boot
+<li>:pushpin:Get some understanding about AWS cloud technologies and learn about PostgreSQL - Postgis database deployment in Spring Boot
 <br>
 <br>
-<li>REST, GeoJSON
+<li>:pushpin:REST, GeoJSON
 
 
 </ul>
