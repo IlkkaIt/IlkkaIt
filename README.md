@@ -1,6 +1,6 @@
 <p>Hi I'm Ilkka, versatile teacher (M.A.) from Finland learning development. Started occasional programming as a hobby 4 years go, got serious later on.</p>
 <br>
-<p>- [x] Principles and practices of object oriented progmamming </p>
+<p>:heavy_check_mark: Principles and practices of object oriented progmamming </p>
 <br
 
 
