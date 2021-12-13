@@ -6,7 +6,7 @@
 <p>:heavy_check_mark: Understanding how relational databases work and how they are implemeneted as part of an application, some NoSQL too</p>
 <p>:heavy_check_mark: Using Front End tools like Thymeleaf on top off basic HTML and CSS </p>
 <p>:heavy_check_mark: Principles and practices of object oriented progmamming </p>
-<p>Clarification :heavy_check_mark: doesn't mean i'm finished with this one, going deeper instead</p>
+<p>:bangbang:Clarification :heavy_check_mark: doesn't mean i'm finished with this one, going deeper instead</p>
 
 <h4>CS Studies 2019-2021</h4>
 <ul>
@@ -20,7 +20,7 @@
 </ul
 
 <br>
-<h4>Technologies</h4>
+<h4>Technologies (tools, not talismans)</h4>
 
 <ul>
 <li>Java ***</li>
@@ -39,7 +39,7 @@
 
 
 <ul>
-<li>I want to finish the course Mooc Full Stack (in progress) in the near future 
+<li>Finishing the course Mooc Full Stack (in progress) in the near future 
 <br>
 (JavaScript, React, React Native, Node JS, Express, TypeScript, GraphQL, Redux)</li>
 <br>
