@@ -1,12 +1,16 @@
 <p>Hi I'm Ilkka, versatile teacher (M.A.) from Finland learning development. Started occasional programming as a hobby 4 years go, got serious later on.</p>
 <br>
-<p>I have basic ability to build web applications with Spring Boot </p>
+<p>- [x] Principles and practices of object oriented progmamming </p>
+<br
+
+
+<p>- [x] Basic ability to build web applications with Spring Boot </p>
 <br>
 
-<p>I do understand how relational databases work and how they are implemeneted as part of an application, including writing queries with SQL and designing table structures of a databese</p>
+<p>- [x] Understanding how relational databases work and how they are implemeneted as part of an application, including writing queries with SQL and designing table structures of a databese</p>
 <br>
 
-<p>I can use Front End tools like Thymeleaf on top off basic HTML and CSS </p>
+<p>- [x] Using Front End tools like Thymeleaf on top off basic HTML and CSS </p>
 
 
 <br>
