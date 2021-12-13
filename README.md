@@ -40,13 +40,13 @@
 
 
 
-<p>:pushpin:Finishing the course Mooc Full Stack (in progress) in the near future</p> 
+<p>:pushpin:-__ Finishing the course Mooc Full Stack (in progress) in the near future
 
 (JavaScript, React, React Native, Node JS, Express, TypeScript, GraphQL, Redux)</p>
 
-<p>:pushpin:Get some understanding about AWS cloud technologies and learn about PostgreSQL - Postgis database deployment in Spring Boot</p>
+<p>:pushpin:__Get some understanding about AWS cloud technologies and learn about PostgreSQL - Postgis database deployment in Spring Boot</p>
 
-<p>:pushpin:REST, GeoJSON</p>
+<p>:pushpin:__REST, GeoJSON</p>
 
 
 
