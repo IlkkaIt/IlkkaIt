@@ -4,13 +4,15 @@
 <br
 
 
-<p>- [x] Basic ability to build web applications with Spring Boot </p>
+<p>:heavy_check_mark: Basic ability to build web applications with Spring Boot </p>
 <br>
 
-<p>- [x] Understanding how relational databases work and how they are implemeneted as part of an application, including writing queries with SQL and designing table structures of a databese</p>
+<p>:heavy_check_mark: Understanding how relational databases work and how they are implemeneted as part of an application, including writing queries with SQL and designing table structures of a databese</p>
 <br>
 
-<p>- [x] Using Front End tools like Thymeleaf on top off basic HTML and CSS </p>
+<p>:heavy_check_mark: Using Front End tools like Thymeleaf on top off basic HTML and CSS </p>
+<br>
+<p>:heavy_check_mark: Principles and practices of object oriented progmamming </p>
 
 
 <br>
@@ -52,7 +54,7 @@
 <li>Get some understanding about AWS cloud technologies and learn about PostgreSQL - Postgis database deployment in Spring Boot
 <br>
 <br>
-<li>REST
+<li>REST, GeoJSON
 
 
 </ul>
