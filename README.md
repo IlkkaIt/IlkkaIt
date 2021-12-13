@@ -1,5 +1,6 @@
 <p>Hi I'm Ilkka, versatile teacher (M.A.) from Finland learning development. Started occasional programming as a hobby 4 years go, got serious later on.</p>
-<br>
+
+<p>I've reached certain capabilities in:</p>
 <p>:heavy_check_mark: Teaching (motivating to learn, sharing knowledge) fellow citizens of all ages on different subjects</p>
 <p>:heavy_check_mark: Basic ability to build web applications with the Spring Boot </p>
 <p>:heavy_check_mark: Understanding how relational databases work and how they are implemeneted as part of an application, some NoSQL too</p>
