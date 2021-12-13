@@ -39,15 +39,14 @@
 
 
 
-<ul>
-<li>:pushpin:Finishing the course Mooc Full Stack (in progress) in the near future 
-<br>
-(JavaScript, React, React Native, Node JS, Express, TypeScript, GraphQL, Redux)</li>
-<br>
-<li>:pushpin:Get some understanding about AWS cloud technologies and learn about PostgreSQL - Postgis database deployment in Spring Boot
-<br>
-<br>
-<li>:pushpin:REST, GeoJSON
+
+<p>:pushpin:Finishing the course Mooc Full Stack (in progress) in the near future</p> 
+
+(JavaScript, React, React Native, Node JS, Express, TypeScript, GraphQL, Redux)</p>
+
+<p>:pushpin:Get some understanding about AWS cloud technologies and learn about PostgreSQL - Postgis database deployment in Spring Boot</p>
+
+<p>:pushpin:REST, GeoJSON</p>
 
 
-</ul>
+
