@@ -1,4 +1,13 @@
 <p>Hi I'm Ilkka, versatile teacher (M.A.) from Finland learning development. Started occasional programming as a hobby 4 years go, got serious later on.</p>
+<br>
+I have basic ability to build web applications with Spring Boot
+<br>
+<br>
+I do understand how relational databases work and how they are implemeneted as part of an application, including writing queries with SQL and designing table structures
+<br>
+<br>
+I can use Front End tools like Thymeleaf on top off basic HTML and CSS 
+
 
 <br>
 <h4>CS Studies 2019-2021</h4>
@@ -38,6 +47,8 @@
 <br>
 <li>Get some understanding about AWS cloud technologies and learn about PostgreSQL - Postgis database deployment in Spring Boot
 <br>
+<br>
+<li>REST
 
 
 </ul>
