@@ -7,7 +7,10 @@
 <p>:heavy_check_mark: Understanding how relational databases work and how they are implemeneted as part of an application, some NoSQL too</p>
 <p>:heavy_check_mark: Using Front End tools like Thymeleaf on top off basic HTML and CSS </p>
 <p>:heavy_check_mark: Principles and practices of object oriented progmamming </p>
-<p>:bangbang:Clarification :heavy_check_mark: doesn't mean i'm finished with this one, going deeper instead</p>
+<p>Outside development:</p>
+<p>:heavy_check_mark: Teaching (motivating to learn, sharing knowledge) fellow citizens of all ages on different subjects</p>
+<p>:heavy_check_mark:Contributing text and graphics to paperback publications (cultural heritage)</p>
+<p>:exclamation:Clarification :heavy_check_mark: doesn't mean i'm finished with this one, going deeper instead</p>
 
 <h4>CS Studies 2019-2021</h4>
 <ul>
