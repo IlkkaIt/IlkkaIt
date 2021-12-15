@@ -4,9 +4,9 @@
 <h4>I've reached certain capabilities in:</h4>
 
 <p>:heavy_check_mark: Building web applications with Spring, Spring Boot </p>
-<p>:heavy_check_mark: Understanding how relational databases work as part of an application, some NoSQL too</p>
+<p>:heavy_check_mark: Using relational databases as part of an application, some NoSQL too</p>
 <p>:heavy_check_mark: Using Front End tools like Thymeleaf, HTML and CSS </p>
-<p>:heavy_check_mark: Applying practices and principles of object oriented progmamming </p>
+<p>:heavy_check_mark: Applying practices and principles of Object-oriented progmamming </p>
 <h4>Outside development (some):</h4>
 <p>:heavy_check_mark: Teaching (motivating to learn, sharing knowledge) fellow citizens of all ages on different subjects</p>
 <p>:heavy_check_mark:Contributing text and graphics to paperback publications (cultural heritage)</p>
