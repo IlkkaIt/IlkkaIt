@@ -39,7 +39,7 @@
 </ul>
 
 <h4>On my radar for 2022</h4>
-<ul>
+<ul style="list-style-type:none">
 <li>:pushpin:<br>Finishing the course Mooc Full Stack (in progress) in the near future
 (JavaScript, React, React Native, Node JS, Express, TypeScript, GraphQL, Redux)</li>
 
