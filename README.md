@@ -24,7 +24,7 @@
 </ul
 
 <br>
-<h4>Technologies (tools, not talismans)</h4>
+<h4>Tools</h4>
 
 <ul>
 <li>Java ***</li>
@@ -34,13 +34,11 @@
 <li>HTML**</li>
 <li>CSS*</li>
 <li>Heroku*</li>
-<li>GIT*</li>
+<li>GIT**</li>
 
 </ul>
 
-<h4>Goals, Capabilities on my radar for 2022</h4>
-
-
+<h4>Goals on my radar for 2022</h4>
 
 
 <p>:pushpin:<br>Finishing the course Mooc Full Stack (in progress) in the near future
