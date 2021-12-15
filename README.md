@@ -39,12 +39,12 @@
 </ul>
 
 <h4>On my radar for 2022</h4>
-<ul style="list-style-type:none">
-<li>:pushpin:<br>Finishing the course Mooc Full Stack (in progress) in the near future
-(JavaScript, React, React Native, Node JS, Express, TypeScript, GraphQL, Redux)</li>
 
-<li>:pushpin:<br>Get more some understanding about AWS cloud technologies (Associate certificate perhaps) and learn about PostgreSQL - Postgis database deployment in Spring Boot</li>
-</ul>
+<p>:pushpin:<br>Finishing the course Mooc Full Stack (in progress) in the near future
+(JavaScript, React, React Native, Node JS, Express, TypeScript, GraphQL, Redux)</p>
+
+<p>:pushpin:<br>Get more some understanding about AWS cloud technologies (Associate certificate perhaps) and learn about PostgreSQL - Postgis database deployment in Spring Boot</p>
+
 
 
 
