@@ -1,5 +1,5 @@
 <h4>About me</h4>
-<p>Hi I'm Ilkka, versatile teacher (M.A. Helsinki University) from Finland learning development. Started occasional programming as a hobby 4 years go, got serious later on.</p>
+<p>Hi I'm Ilkka, versatile teacher (M.A. Helsinki University) from Finland learning development. Started occasional programming as a hobby about 4 years ago, and CS-studies around 2020</p>
 
 <h4>I've reached certain capabilities in:</h4>
 
@@ -13,7 +13,7 @@
 <br>
 <p>:exclamation:Clarification :heavy_check_mark: doesn't mean i'm finished with this one</p>
 
-<h4>CS Studies 2019-2021 (Helsinki Open University)</h4>
+<h4>CS Studies 2020-2021 (Helsinki Open University)</h4>
 <ul>
 <li>Introduction to CS</li>
 <li>Introduction to Programming Java</li>
