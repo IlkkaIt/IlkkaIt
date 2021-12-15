@@ -3,7 +3,7 @@
 
 <h4>I've reached certain capabilities in:</h4>
 
-<p>:heavy_check_mark: Building web applications with the Spring Boot </p>
+<p>:heavy_check_mark: Building web applications with Spring, Spring Boot </p>
 <p>:heavy_check_mark: Understanding how relational databases work as part of an application, some NoSQL too</p>
 <p>:heavy_check_mark: Using Front End tools like Thymeleaf on top off basic HTML and CSS </p>
 <p>:heavy_check_mark: Applying practices and principles of object oriented progmamming </p>
