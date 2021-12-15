@@ -11,7 +11,7 @@
 <p>:heavy_check_mark: Teaching (motivating to learn, sharing knowledge) fellow citizens of all ages on different subjects</p>
 <p>:heavy_check_mark:Contributing text and graphics to paperback publications (cultural heritage)</p>
 <br>
-<p>:exclamation:Clarification :heavy_check_mark: doesn't mean i'm finished with this one, going deeper instead</p>
+<p>:exclamation:Clarification :heavy_check_mark: doesn't mean i'm finished with this one</p>
 
 <h4>CS Studies 2019-2021 (Helsinki Open University)</h4>
 <ul>
@@ -24,7 +24,7 @@
 </ul
 
 <br>
-<h4>Tools</h4>
+<h4>Technologies - Tools</h4>
 
 <ul>
 <li>Java ***</li>
@@ -34,12 +34,11 @@
 <li>HTML**</li>
 <li>CSS*</li>
 <li>Heroku*</li>
-<li>GIT**</li>
+<li>GIT*</li>
 
 </ul>
 
-<h4>Goals on my radar for 2022</h4>
-
+<h4>On my radar for 2022</h4>
 
 <p>:pushpin:<br>Finishing the course Mooc Full Stack (in progress) in the near future
 (JavaScript, React, React Native, Node JS, Express, TypeScript, GraphQL, Redux)</p>
