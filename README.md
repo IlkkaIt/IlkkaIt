@@ -45,6 +45,8 @@
 
 <p>:pushpin:<br>Get more understanding about AWS cloud technologies (Associate certificate perhaps) and learn about PostgreSQL - Postgis database deployment in Spring Boot</p>
 
+<p>:pushpin:<br>Gathering some tools and skills to create high standart software documentation</p>
+
 
 
 
