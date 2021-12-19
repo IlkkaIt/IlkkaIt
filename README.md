@@ -13,7 +13,7 @@
 <br>
 <p>:exclamation:Clarification :heavy_check_mark: doesn't mean i'm finished with this one</p>
 
-<h4>CS Studies 2020-2021 (Helsinki Open University)</h4>
+<h4>CS Studies 2019-2021 (Helsinki Open University)</h4>
 <ul>
 <li>Introduction to CS</li>
 <li>Introduction to Programming Java</li>
