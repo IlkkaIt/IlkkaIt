@@ -1,5 +1,5 @@
 <h4>About me</h4>
-<p>Hi I'm Ilkka, versatile teacher (M.A. Helsinki University) from Finland learning development. Started occasional programming as a hobby about 4 years ago, and CS-studies around 2020</p>
+<p>Hi I'm Ilkka, versatile teacher (M.A. Helsinki University) from Finland learning development. Started occasional programming as a hobby about 3 years ago, and CS-studies late 2019</p>
 
 <h4>I've reached certain capabilities in:</h4>
 
